@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQxzi5htT+ECXoaq0aCfQfVLPkGLXwmIJd5vPcJxjhcwcsGUO7aMKZ3Pk6z1M1ZHIi1FHM/p8krjFCld3ChKCg==",
+  "dgSpecHash": "ZGvTPs+6CFujcwAyCvxzjVtNECmwJqfFPX5TdGk2yPGtbhcC9paOCV2INciaRsbaBjEKTnpU2463jCWxZKeOjw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp\\AcmeWidgetSignUp.csproj",
+  "projectFilePath": "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp\\AcmeWidgetSignUp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADWEB_EJeyakumar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ADWEB_EJeyakumar\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

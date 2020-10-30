@@ -8099,11 +8099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\AcmeWidgetSignUp.UnitTest.csproj",
+      "projectUniqueName": "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\AcmeWidgetSignUp.UnitTest.csproj",
       "projectName": "AcmeWidgetSignUp.UnitTest",
-      "projectPath": "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\AcmeWidgetSignUp.UnitTest.csproj",
+      "projectPath": "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\AcmeWidgetSignUp.UnitTest.csproj",
       "packagesPath": "C:\\Users\\ADWEB_EJeyakumar\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\obj\\",
+      "outputPath": "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADWEB_EJeyakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8120,8 +8120,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp\\AcmeWidgetSignUp.csproj": {
-              "projectPath": "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp\\AcmeWidgetSignUp.csproj"
+            "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp\\AcmeWidgetSignUp.csproj": {
+              "projectPath": "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp\\AcmeWidgetSignUp.csproj"
             }
           }
         }

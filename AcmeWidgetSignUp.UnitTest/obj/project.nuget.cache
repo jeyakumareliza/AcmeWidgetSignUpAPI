@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGQ8eRcIiBfHNLO9wU21OGq7Grkp02GZCjmN+mEA39CNwZw2voxvqi38OU+kJwPPtXsY3WN5T147OCCGvagLmA==",
+  "dgSpecHash": "Gf12yXELjTsT4H4uBvGMdONj+QNyUC0bYVi8TYQVl64n6e7RG5PIlRHDwXnqxgvhusmvdpQ5rFYVxQJNb9I89Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\take home assignment\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\AcmeWidgetSignUp.UnitTest.csproj",
+  "projectFilePath": "C:\\dev\\take home assignment\\server\\AcmeWidgetSignUp\\AcmeWidgetSignUp.UnitTest\\AcmeWidgetSignUp.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADWEB_EJeyakumar\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\ADWEB_EJeyakumar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
